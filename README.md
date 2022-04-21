@@ -36,17 +36,11 @@
   플러스 친구 추가시, 초기 화면
 </p>
 
-<div align = "center" style = "display : table">
-  <div style = "display : flex; flex-direction : column">
+<p float="left">
     <img width = "331" height = "312" src= "https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg"></img>
-    <span>학과/전공 등록화면 1</span>
-  </div>
-  
-  <div style = "display : flex; flex-direction : column">
-  <img width = "331" height = "312" src= "https://user-images.githubusercontent.com/53431518/164524537-42f21ca0-e651-4712-ae80-2b343337b20c.png"></img>
-    <span>학과/전공 등록화면 2</span>
-  </div>
-</div>
+    <img width = "331" height = "312" src= "https://user-images.githubusercontent.com/53431518/164524537-42f21ca0-e651-4712-ae80-2b343337b20c.png"></img>
+</p>
+
 
 교수님 검색 화면
 <img width="342" alt="교수님 검색 화면" src="https://user-images.githubusercontent.com/53431518/164524645-a1be3256-cc74-4799-95b8-c28c1cd9f6bf.png">
