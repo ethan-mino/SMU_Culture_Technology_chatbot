@@ -29,3 +29,13 @@
 - **교수님 정보** 검색 (연락처, 연구실 위치)
 - **학과 사무실 정보**(운영 시간, 전화번호, 사무실 위치) 검색
 
+📷 Screenshot
+![플러스 친구 추가시, 초기화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/054c728a-8207-412e-879b-9d01131a06fa/picture_compress.bmp)
+![학과/전공 등록 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29f771dc-ccfe-483c-a0f3-4a9445508cd0/noname02.bmp)
+![학과/전공 등록 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8242f308-ed80-401c-84be-85bc435de525/noname01.png)
+![교수님 검색 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d53df696-4a7e-4336-befd-e6e7b4f7196e/noname01_(2).png)
+![학사 일정 검색 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc3c6158-e711-496d-829d-cfff2ff79a90/noname02.png)
+![학과 사무실 검색 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/991b416d-701e-41ec-855c-71ceea6805d4/noname03.bmp)
+![학과 사무실 검색 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94eeac41-5a72-457e-a73b-92a6b8907757/noname04.bmp)
+![수업 정보 검색 화면 (PC 버전)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32242574-f8a3-44f4-ab13-a50c6895e72c/picture_compress.bmp)
+![최근 공지사항 검색 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a1618bf-1229-45a8-a973-bafbf2ef61e9/noname07.bmp)
