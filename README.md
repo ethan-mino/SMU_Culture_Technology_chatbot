@@ -43,16 +43,21 @@
 교수님 검색화면            |  학사 일정 검색 화면
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/53431518/164524645-a1be3256-cc74-4799-95b8-c28c1cd9f6bf.png)  |  ![](https://user-images.githubusercontent.com/53431518/164524943-e972bc25-3939-4b24-8f61-7a11ecc56a47.png)
-
-<p align = "center"> 
+ 
 학과 사무실 검색화면 1            |  학과 사무실 검색화면  
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/53431518/164525000-57b176f8-80c1-4d00-921e-2d1821c5dc48.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164530408-bc6be4dc-54b2-4609-b5de-182d30170403.jpg)
-</p>
-수업 정보 검색 화면 (PC 버전)            |  최근 공지사항 검색 화면  
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/53431518/164525200-b5c78728-a73e-4157-bc0e-902efdeda2d4.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164525391-87eeb085-f3c1-47ae-9dd4-e7c9b11bd2ee.jpg)
 
+<table>
+  <tr>
+    <td>수업 정보 검색 화면 (PC 버전) </td>
+     <td>최근 공지사항 검색 화면 </td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/53431518/164525200-b5c78728-a73e-4157-bc0e-902efdeda2d4.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/53431518/164525391-87eeb085-f3c1-47ae-9dd4-e7c9b11bd2ee.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
