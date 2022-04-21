@@ -3,7 +3,7 @@
 
 # 💡 Topic
 
-- 카카오톡 오픈 빌더를 이용하여 개발한 챗봇
+- 2019년 카카오톡 오픈 빌더를 이용하여 개발한 챗봇
 - 상명대학교 문화기술대학원생들이 빈번하게 찾는 정보를 카카오톡 챗봇을 통하여 제공하는 서비스
 
 # 📝 Summary
@@ -31,5 +31,20 @@
 
 📷 Screenshot
 
-![플러스 친구 추가시, ](https://user-images.githubusercontent.com/53431518/164521191-329319d4-a21e-4643-af1d-391cd1a3daa0.jpg)
+![플러스 친구 추가시, 초기화면](https://user-images.githubusercontent.com/53431518/164521191-329319d4-a21e-4643-af1d-391cd1a3daa0.jpg)
+![학과/전공 등록화면 1](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)
+<img width="346" alt="학과/전공 등록화면 2" src="https://user-images.githubusercontent.com/53431518/164524537-42f21ca0-e651-4712-ae80-2b343337b20c.png">
+<img width="342" alt="교수님 검색 화면" src="https://user-images.githubusercontent.com/53431518/164524645-a1be3256-cc74-4799-95b8-c28c1cd9f6bf.png">
+<img width="339" alt="학과 사무실 검색 화면 1" src="https://user-images.githubusercontent.com/53431518/164524943-e972bc25-3939-4b24-8f61-7a11ecc56a47.png">
+![학과 사무실 검색 화면 2](https://user-images.githubusercontent.com/53431518/164525000-57b176f8-80c1-4d00-921e-2d1821c5dc48.jpg)
+![수업 정보 검색 화면 (PC 버전)](https://user-images.githubusercontent.com/53431518/164525200-b5c78728-a73e-4157-bc0e-902efdeda2d4.jpg)
+![최근 공지사항 검색 화면](https://user-images.githubusercontent.com/53431518/164525391-87eeb085-f3c1-47ae-9dd4-e7c9b11bd2ee.jpg)
+
+
+
+
+
+
+
+
 
