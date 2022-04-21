@@ -36,7 +36,7 @@
   플러스 친구 추가시, 초기 화면
 </p>
 
-<div align = "center" style = "display : flex">
+<div align = "center" style = "display : table">
   <div style = "display : flex; flex-direction : column">
     <img width = "331" height = "312" src= "https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg"></img>
     <span>학과/전공 등록화면 1</span>
