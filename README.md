@@ -31,12 +31,18 @@
 
 📷 Screenshot
 
-</p><img src= "https://user-images.githubusercontent.com/53431518/164521191-329319d4-a21e-4643-af1d-391cd1a3daa0.jpg"></img>플러스 친구 추가시, 초기 화면</p>
+<p align = "center">
+  <img src= "https://user-images.githubusercontent.com/53431518/164521191-329319d4-a21e-4643-af1d-391cd1a3daa0.jpg"></img>
+  플러스 친구 추가시, 초기 화면
+</p>
 
-학과/전공 등록화면 1
-![학과/전공 등록화면 1](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)
-학과/전공 등록화면 2
-<img width="346" alt="학과/전공 등록화면 2" src="https://user-images.githubusercontent.com/53431518/164524537-42f21ca0-e651-4712-ae80-2b343337b20c.png">
+<p align = "center">
+  <img src= "https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg"></img>
+  학과/전공 등록화면 1
+  <img src= "https://user-images.githubusercontent.com/53431518/164524537-42f21ca0-e651-4712-ae80-2b343337b20c.png"></img>
+  학과/전공 등록화면 2
+</p>
+
 교수님 검색 화면
 <img width="342" alt="교수님 검색 화면" src="https://user-images.githubusercontent.com/53431518/164524645-a1be3256-cc74-4799-95b8-c28c1cd9f6bf.png">
 학과 사무실 검색 화면 1
