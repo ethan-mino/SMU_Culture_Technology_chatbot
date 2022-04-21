@@ -36,18 +36,17 @@
   플러스 친구 추가시, 초기 화면
 </p>
 
-학과/전공 등록 화면 1             |  학과/전공 등록 화면 2
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)
-
-교수님 검색화면            |  학사 일정 검색 화면
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/53431518/164524645-a1be3256-cc74-4799-95b8-c28c1cd9f6bf.png)  |  ![](https://user-images.githubusercontent.com/53431518/164524943-e972bc25-3939-4b24-8f61-7a11ecc56a47.png)
+<table align = "center">
+  <tr>
+    <td>학과 사무실 검색화면 1 </td>
+     <td>학과 사무실 검색화면 </td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/53431518/164525000-57b176f8-80c1-4d00-921e-2d1821c5dc48.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/53431518/164530408-bc6be4dc-54b2-4609-b5de-182d30170403.jpg" width=270 height=480></td>
+  </tr>
+ </table>
  
-학과 사무실 검색화면 1            |  학과 사무실 검색화면  
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/53431518/164525000-57b176f8-80c1-4d00-921e-2d1821c5dc48.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164530408-bc6be4dc-54b2-4609-b5de-182d30170403.jpg)
-
 <table align = "center">
   <tr>
     <td>수업 정보 검색 화면 (PC 버전) </td>
@@ -59,7 +58,14 @@
   </tr>
  </table>
 
+학과/전공 등록 화면 1             |  학과/전공 등록 화면 2
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)
 
+교수님 검색화면            |  학사 일정 검색 화면
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/53431518/164524645-a1be3256-cc74-4799-95b8-c28c1cd9f6bf.png)  |  ![](https://user-images.githubusercontent.com/53431518/164524943-e972bc25-3939-4b24-8f61-7a11ecc56a47.png)
+ 
 
 
 
