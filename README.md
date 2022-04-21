@@ -38,7 +38,7 @@
 
 학과/전공 등록 화면 1             |  학과/전공 등록 화면 2
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)
+![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164531623-2bcc0f65-3247-4e02-b594-15db173a3d9c.png)
 
 교수님 검색화면            |  학사 일정 검색 화면
 :-------------------------:|:-------------------------:
