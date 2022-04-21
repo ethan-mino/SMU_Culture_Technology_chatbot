@@ -48,7 +48,7 @@
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/53431518/164525000-57b176f8-80c1-4d00-921e-2d1821c5dc48.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164530408-bc6be4dc-54b2-4609-b5de-182d30170403.jpg)
 
-<table style = "margin : auto">
+<table align = "center">
   <tr>
     <td>수업 정보 검색 화면 (PC 버전) </td>
      <td>최근 공지사항 검색 화면 </td>
