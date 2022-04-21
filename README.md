@@ -36,32 +36,21 @@
   플러스 친구 추가시, 초기 화면
 </p>
 
-<p float="left" align = "center">
-  <div style = "display : flex">
-    <img width = "331" height = "312" src= "https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg"></img>
-    <span>학과/전공 등록 화면 1</span>
-  </div>
-  <div style = "display : flex">
-    <img width = "331" height = "312" src= "https://user-images.githubusercontent.com/53431518/164524537-42f21ca0-e651-4712-ae80-2b343337b20c.png"></img>
-    <span>학과/전공 등록 화면 2</span>
-  </div>
-</p>
-
-Solarized dark             |  Solarized Ocean
+학과/전공 등록 화면 1             |  학과/전공 등록 화면 2
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)
 
+교수님 검색화면            |  학사 일정 검색 화면
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/53431518/164524645-a1be3256-cc74-4799-95b8-c28c1cd9f6bf.png)  |  ![](https://user-images.githubusercontent.com/53431518/164524943-e972bc25-3939-4b24-8f61-7a11ecc56a47.png)
 
-교수님 검색 화면
-<img width="342" alt="교수님 검색 화면" src="https://user-images.githubusercontent.com/53431518/164524645-a1be3256-cc74-4799-95b8-c28c1cd9f6bf.png">
-학과 사무실 검색 화면 1
-<img width="339" alt="학과 사무실 검색 화면 1" src="https://user-images.githubusercontent.com/53431518/164524943-e972bc25-3939-4b24-8f61-7a11ecc56a47.png">
-학과 사무실 검색 화면 2
-![학과 사무실 검색 화면 2](https://user-images.githubusercontent.com/53431518/164525000-57b176f8-80c1-4d00-921e-2d1821c5dc48.jpg)
-수업 정보 검색 화면 (PC 버전)
-![수업 정보 검색 화면 (PC 버전)](https://user-images.githubusercontent.com/53431518/164525200-b5c78728-a73e-4157-bc0e-902efdeda2d4.jpg)
-최근 공지사항 검색 화면
-![최근 공지사항 검색 화면](https://user-images.githubusercontent.com/53431518/164525391-87eeb085-f3c1-47ae-9dd4-e7c9b11bd2ee.jpg)
+학과 사무실 검색화면 1            |  학과 사무실 검색화면  
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/53431518/164525000-57b176f8-80c1-4d00-921e-2d1821c5dc48.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164530408-bc6be4dc-54b2-4609-b5de-182d30170403.jpg)
+
+수업 정보 검색 화면 (PC 버전)            |  최근 공지사항 검색 화면  
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/53431518/164525200-b5c78728-a73e-4157-bc0e-902efdeda2d4.jpg)  |  ![](https://user-images.githubusercontent.com/53431518/164525391-87eeb085-f3c1-47ae-9dd4-e7c9b11bd2ee.jpg)
 
 
 
