@@ -31,8 +31,8 @@
 
 📷 Screenshot
 
-플러스 친구 추가시, 초기화면
-![플러스 친구 추가시, 초기화면](https://user-images.githubusercontent.com/53431518/164521191-329319d4-a21e-4643-af1d-391cd1a3daa0.jpg)
+</p><img src= "https://user-images.githubusercontent.com/53431518/164521191-329319d4-a21e-4643-af1d-391cd1a3daa0.jpg"></img>플러스 친구 추가시, 초기 화면</p>
+
 학과/전공 등록화면 1
 ![학과/전공 등록화면 1](https://user-images.githubusercontent.com/53431518/164524215-30127e0f-f75b-465f-a12d-194eb8beebd1.jpg)
 학과/전공 등록화면 2
